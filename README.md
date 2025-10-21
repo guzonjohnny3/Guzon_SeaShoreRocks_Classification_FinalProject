@@ -3,9 +3,7 @@ echo "==============================================
 ==============================================
 
 Author: Johnny Guzon
-Course: BSIT 2 - KLMN1
-Subject: Machine Learning / Teachable Machine
-Date: October 2025
+Date: October 22 2025
 
 ----------------------------------------------
 📘 Project Description:
@@ -35,5 +33,5 @@ based on visual features such as color, shape, and texture.
 ----------------------------------------------
 🪙 Credits:
 Developed by Johnny Guzon
-For educational purposes under Northern Mindanao Colleges
+For educational purposes under Caraga State University Cabadbaran Campus
 " > readme.txt
