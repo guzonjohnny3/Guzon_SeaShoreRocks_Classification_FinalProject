@@ -1,0 +1,10 @@
+0 Basalt
+1 Coral Rock
+2 Granite
+3 Mudstone
+4 Pumice
+5 Quartz Arini...
+6 SandStone
+7 Shale
+8 Siltstone
+9 Wacke
