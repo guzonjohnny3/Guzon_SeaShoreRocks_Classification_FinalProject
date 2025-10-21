@@ -1,7 +1,3 @@
-echo "==============================================
- Guzon Sea Shore Rocks Classification Project
-==============================================
-
 Author: Johnny Guzon
 Date: October 22 2025
 
